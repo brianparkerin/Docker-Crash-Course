@@ -30,6 +30,16 @@ Administrar y compartir grupos de usuarios contendores docker:
 
 
 
+Practica Curso:
+
+
+1. Crear una Wordpress App con volumenes bireccionales, ngnix, mysql, phpmyadmin, tema premium...
+
+2. Crear un contenedor con sistema operativo linux,ingresar dentro de ese container, lanzar la bash y terminar, coectarse a ese sistema operativo y contenedor por ssh y hacer practica de usaurios linux.
+
+- Al contenedor anterior tambien instalarle VirtualBox, para tener un acceso grafico a ese sitema operativo corriendo dentro del contenedor. (practica conceptos de virtualizacion)
+
+
 
 
 
